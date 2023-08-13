@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "name": null,
+      "email": null,
+      "phone": null,
+      "profileid": null,
+      "id": 1
+    },
+    {
+      "name": "tes",
+      "email": "tes@gmail.com",
+      "phone": "0811111111",
+      "profileid": "2a212455",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

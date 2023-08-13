@@ -1,0 +1,51 @@
+header{
+    background-color: aqua;
+}
+
+.form-box{
+    padding: 25px;
+    background-color: #bcbcbc3d;
+    margin: 0px auto;
+    border: 3px solid black;
+}
+
+.modal-header{
+    background-color: #4800ee;
+    color: aliceblue !important;
+}
+
+.btn-close{
+    color: white !important;
+    background-color: white !important;
+    border-radius: 50%;
+}
+
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+th, td{
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+table td{
+    background-color: #f2f2f2 !important;
+}
+
+th{
+    background-color: #4800ee;
+    color: white;
+}
+
+footer{
+    background-color: aqua;
+    margin-top: auto !important;
+}
+
